@@ -1,0 +1,95 @@
+{
+    "fruits" : [
+        {
+          "id": 101,
+          "nama": "Jeruk Mandarin",
+          "jenis": "Impor",
+          "asal": "china",
+          "harga": 20000
+        },
+        {
+          "id": 102,
+          "nama": "Mangga HM",
+          "jenis": "Local",
+          "asal": "Jawa",
+          "harga": 25000
+        },
+        {
+          "id": 103,
+          "nama": "Mangga Indra Mayu",
+          "jenis": "Local",
+          "asal": "Indramayu",
+          "harga": 15000
+        },
+        {
+          "id": 104,
+          "nama": "Alpukat Mentega",
+          "jenis": "Local",
+          "asal": "Jawa",
+          "harga": 22000
+        },
+        {
+          "id": 105,
+          "nama": "Jambu Air",
+          "jenis": "Local",
+          "asal": "Jawa",
+          "harga": 20000
+        },
+        {
+          "id": 106,
+          "nama": "Durian",
+          "jenis": "Local",
+          "asal": "Sumatra",
+          "harga": 50000
+        },
+        {
+          "id": 107,
+          "nama": "Kelapa",
+          "jenis": "Local",
+          "asal": "Riau",
+          "harga": 10000
+        },
+        {
+          "id": 108,
+          "nama": "Semangka",
+          "jenis": "Local",
+          "asal": "Kalimantan",
+          "harga": 16000
+        },
+        {
+          "id": 109,
+          "nama": "Pisang Ambon",
+          "jenis": "Local",
+          "asal": "Ambon",
+          "harga": 20000
+        },
+        {
+          "id": 110,
+          "nama": "Pisang Tanduk",
+          "jenis": "Local",
+          "asal": "Bogor",
+          "harga": 50000
+        },
+        {
+          "id": 111,
+          "nama": "Salak",
+          "jenis": "Local",
+          "asal": "Sukabumi",
+          "harga": 17000
+        },
+        {
+          "id": 112,
+          "nama": "Jambu Kristal",
+          "jenis": "Impor",
+          "asal": "China",
+          "harga": 22000
+        },
+        {
+          "id": 113,
+          "nama": "Pepaya",
+          "jenis": "Local",
+          "asal": "Surabya",
+          "harga": 10000
+        }
+      ]
+}
